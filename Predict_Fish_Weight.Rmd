@@ -129,3 +129,8 @@ summary.out$which[2,]
 ```
 
 This summary for SMelt confirms that Length 2 and Width are the best two plots.
+
+
+# Conclusion
+
+For this write-up, we had to create a regression model that would chose the best two plots in order to predict the weight of three fishes. The first fish was a preach in which we filter and selected preach fish for our data. This happened another two times for smelt and bream in order to plug it in our regression models. Then we ran the regression model which gave three different combinations between all three fish. Then we used the sumarry in order to check and see if the regression model was correct and had chose the two best plots for all three fish.
